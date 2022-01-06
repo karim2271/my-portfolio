@@ -1,0 +1,88 @@
+body {
+  margin: 100px;
+  font-family: "Estonia", cursive;
+  font-family: "Oswald", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+.h {
+  font-size: 50px;
+  border-left: 5px solid red;
+  padding-left: 2%;
+}
+.first-color {
+  color: orange;
+}
+section {
+  display: flex;
+}
+.a {
+  margin-right: 5%;
+  width: 50%;
+  padding-left: 7%;
+  background-color: rgb(195, 231, 231);
+  border-radius: 5%;
+  padding: 3%;
+}
+.a img {
+  width: 30%;
+}
+.b {
+  margin-right: 5%;
+  width: 50%;
+  padding-left: 7%;
+  background-color: rgb(241, 205, 232);
+  border-radius: 5%;
+  padding: 3%;
+}
+.b img {
+  width: 30%;
+}
+.c {
+  margin-right: 5%;
+  width: 50%;
+  padding-left: 7%;
+  background-color: rgb(221, 238, 175);
+  border-radius: 5%;
+  padding: 3%;
+}
+.c img {
+  width: 30%;
+}
+
+.button1 {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(19, 23, 24), rgb(132, 89, 233));
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 800;
+}
+
+.part2 {
+  font-size: 50px;
+}
+.mission {
+  display: flex;
+  margin-bottom: 15px;
+}
+.part2 {
+  text-align: center;
+}
+.half1 {
+  text-align: left;
+  width: 50%;
+  padding-left: 7%;
+}
+.half1 img {
+  width: 70%;
+}
+.foot {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  background-color: black;
+}
+.foot-font {
+  font-style: italic;
+  color: white;
+}
